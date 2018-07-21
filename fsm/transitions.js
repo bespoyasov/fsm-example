@@ -30,7 +30,7 @@ function* clear() {
 
 
 /**
- * Dict of all possible transition between all states.
+ * Dict of all possible transitions between states.
  * Each transition func returns a new state which
  * FSM should be in after transition
  */
